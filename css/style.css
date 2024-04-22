@@ -1,7 +1,6 @@
 /* regole generali */
 * {
     margin: 0;
-    padding: 0;
 }
 
 /* regole banner logo */
@@ -33,3 +32,29 @@ h1 {
 .captions {
     font-size: smaller;
 }
+
+/* regole main  */
+
+.highlight {
+    background-color: rgba(255, 255, 0, 0.5);
+}
+
+table {
+    border-spacing: 0;
+}
+
+.left-columns {
+    width: 300px;
+}
+
+thead {
+    color: white;
+    background-color: #20a9e5;
+}
+
+table tr:nth-child(even) {
+    background-color: #b1e5f2;
+
+}
+
+
