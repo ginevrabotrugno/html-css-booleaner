@@ -17,3 +17,19 @@
     margin-top: 30px;
 }
 
+/* regole intestazione */
+h1 {
+    font-size: xx-large;
+}
+
+.header-subtitle {
+    color: #8f8c8c;
+}
+
+#booleaner {
+    color: #91d5f2;
+}
+
+.captions {
+    font-size: smaller;
+}
