@@ -4,12 +4,16 @@
     padding: 0;
 }
 
+/* regole banner logo */
 #header-logo {
     background-image: url(../img/pattern.png);
-    background-size: 30%;
+    background-size: 300px;
     background-color: #4ea0ff;
+    height: 80px;
 }
 
 #header-logo img {
-    width: 30%;
+    width: 200px;
+    margin-top: 30px;
 }
+
